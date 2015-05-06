@@ -1,0 +1,44 @@
+{
+  "name": "cf-layout",
+  "description": "Layout helpers for Capital Framework.",
+  "keywords": [
+    "capital-framework",
+    "capital",
+    "layout",
+    "less"
+  ],
+  "authors": [
+    {
+      "name": "Consumer Financial Protection Bureau",
+      "url": "https://cfpb.github.io/"
+    }
+  ],
+  "homepage": "https://github.com/cfpb/cf-layout",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cfpb/cf-layout.git"
+  },
+  "license": "https://github.com/cfpb/cf-layout/blob/gh-pages/TERMS.md",
+  "main": "src/cf-layout.less",
+  "dependencies": {
+    "cf-core": "cfpb/cf-core#dev",
+    "cf-grid": "cfpb/cf-grid#dev"
+  },
+  "exportsOverride": {
+    "cf-*": {
+      "css": "src/**/*.css",
+      "less": "src/**/*.less",
+      "fonts": "src/fonts/*.*",
+      "js": "src/**/*.js"
+    }
+  },
+  "_release": "eb44c80acd",
+  "_resolution": {
+    "type": "branch",
+    "branch": "dev",
+    "commit": "eb44c80acd02cec5c06346db2115eddf803dc671"
+  },
+  "_source": "git://github.com/cfpb/cf-layout.git",
+  "_target": "dev",
+  "_originalSource": "cfpb/cf-layout"
+}

@@ -1,6 +1,6 @@
 {
   "name": "cf-buttons",
-  "version": "1.4.1",
+  "version": "1.4.2",
   "description": "Button styles including default, secondary, destructive, disabled, super, and compound buttons, button links, buttons with icons, and button groups for Capital Framework.",
   "keywords": [
     "capital-framework",
@@ -22,8 +22,8 @@
   "license": "https://github.com/cfpb/cf-buttons/blob/gh-pages/TERMS.md",
   "main": "src/cf-buttons.less",
   "dependencies": {
-    "cf-core": "contolini/cf-core#pure-less",
-    "cf-icons": "contolini/cf-icons#pure-less"
+    "cf-core": "cfpb/cf-core#dev",
+    "cf-icons": "cfpb/cf-icons#dev"
   },
   "exportsOverride": {
     "cf-*": {

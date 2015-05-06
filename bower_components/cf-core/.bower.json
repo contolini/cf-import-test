@@ -32,13 +32,13 @@
       "js": "src/**/*.js"
     }
   },
-  "_release": "88b5a6e655",
+  "_release": "8c4a5c287c",
   "_resolution": {
     "type": "branch",
-    "branch": "pure-less",
-    "commit": "88b5a6e655b7330d94c6b521be6d1ea458cae028"
+    "branch": "dev",
+    "commit": "8c4a5c287c0c5ff4e8138b1bdca2c3b2122fa68d"
   },
-  "_source": "git://github.com/contolini/cf-core.git",
-  "_target": "pure-less",
-  "_originalSource": "contolini/cf-core"
+  "_source": "git://github.com/cfpb/cf-core.git",
+  "_target": "dev",
+  "_originalSource": "cfpb/cf-core"
 }

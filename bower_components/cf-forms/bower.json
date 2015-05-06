@@ -17,10 +17,10 @@
   "license": "https://github.com/cfpb/cf-forms/blob/gh-pages/TERMS.md",
   "main": "src/cf-forms.less",
   "dependencies": {
-    "cf-core": "contolini/cf-core#pure-less",
-    "cf-buttons": "contolini/cf-buttons#pure-less",
-    "cf-grid": "contolini/cf-grid#pure-less",
-    "cf-icons": "contolini/cf-icons#pure-less"
+    "cf-core": "cfpb/cf-core#dev",
+    "cf-buttons": "cfpb/cf-buttons#dev",
+    "cf-grid": "cfpb/cf-grid#dev",
+    "cf-icons": "cfpb/cf-icons#dev"
   },
   "exportsOverride": {
     "cf-*": {

@@ -21,8 +21,8 @@
   "license": "https://github.com/cfpb/cf-buttons/blob/gh-pages/TERMS.md",
   "main": "src/cf-buttons.less",
   "dependencies": {
-    "cf-core": "contolini/cf-core#pure-less",
-    "cf-icons": "contolini/cf-icons#pure-less"
+    "cf-core": "cfpb/cf-core#dev",
+    "cf-icons": "cfpb/cf-icons#dev"
   },
   "exportsOverride": {
     "cf-*": {
@@ -32,13 +32,13 @@
       "js": "src/**/*.js"
     }
   },
-  "_release": "e58d723f81",
+  "_release": "d5c4f3ee14",
   "_resolution": {
     "type": "branch",
-    "branch": "pure-less",
-    "commit": "e58d723f812210622b909f2116e03411ad1646a3"
+    "branch": "dev",
+    "commit": "d5c4f3ee142a2e1e5951038a1c3cfeba596adf21"
   },
-  "_source": "git://github.com/contolini/cf-buttons.git",
-  "_target": "pure-less",
-  "_originalSource": "contolini/cf-buttons"
+  "_source": "git://github.com/cfpb/cf-buttons.git",
+  "_target": "dev",
+  "_originalSource": "cfpb/cf-buttons"
 }

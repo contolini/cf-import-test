@@ -1,7 +1,7 @@
 {
   "name": "cf-import-test",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "dependencies": {
-    "cf-forms": "contolini/cf-forms#pure-less"
+    "capital-framework": "cfpb/capital-framework#dev"
   }
 }

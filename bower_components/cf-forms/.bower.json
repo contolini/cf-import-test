@@ -21,10 +21,10 @@
   "license": "https://github.com/cfpb/cf-forms/blob/gh-pages/TERMS.md",
   "main": "src/cf-forms.less",
   "dependencies": {
-    "cf-core": "contolini/cf-core#pure-less",
-    "cf-buttons": "contolini/cf-buttons#pure-less",
-    "cf-grid": "contolini/cf-grid#pure-less",
-    "cf-icons": "contolini/cf-icons#pure-less"
+    "cf-core": "cfpb/cf-core#dev",
+    "cf-buttons": "cfpb/cf-buttons#dev",
+    "cf-grid": "cfpb/cf-grid#dev",
+    "cf-icons": "cfpb/cf-icons#dev"
   },
   "exportsOverride": {
     "cf-*": {
@@ -38,13 +38,13 @@
       "fonts": "font/*.*"
     }
   },
-  "_release": "4bc6489157",
+  "_release": "cbe957415b",
   "_resolution": {
     "type": "branch",
-    "branch": "pure-less",
-    "commit": "4bc64891575c965dd25844a9f25a3df2bb789520"
+    "branch": "dev",
+    "commit": "cbe957415ba4d41bdfb6f64555d468cc274965fa"
   },
-  "_source": "git://github.com/contolini/cf-forms.git",
-  "_target": "pure-less",
-  "_originalSource": "contolini/cf-forms"
+  "_source": "git://github.com/cfpb/cf-forms.git",
+  "_target": "dev",
+  "_originalSource": "cfpb/cf-forms"
 }
