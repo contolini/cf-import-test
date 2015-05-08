@@ -31,11 +31,11 @@
       "js": "src/**/*.js"
     }
   },
-  "_release": "256f4dcadc",
+  "_release": "6cc5baf085",
   "_resolution": {
     "type": "branch",
     "branch": "dev",
-    "commit": "256f4dcadcd3460c7fc46e6a8b4e6430252e291c"
+    "commit": "6cc5baf08592b02705110c5547a2ae798bc9a6df"
   },
   "_source": "git://github.com/cfpb/cf-icons.git",
   "_target": "dev",

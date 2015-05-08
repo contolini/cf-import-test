@@ -32,11 +32,11 @@
       "js": "src/**/*.js"
     }
   },
-  "_release": "eb44c80acd",
+  "_release": "6ca0ac7c2f",
   "_resolution": {
     "type": "branch",
     "branch": "dev",
-    "commit": "eb44c80acd02cec5c06346db2115eddf803dc671"
+    "commit": "6ca0ac7c2f1fde2c918192e15a89554004522548"
   },
   "_source": "git://github.com/cfpb/cf-layout.git",
   "_target": "dev",

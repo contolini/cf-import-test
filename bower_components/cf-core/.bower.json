@@ -32,11 +32,11 @@
       "js": "src/**/*.js"
     }
   },
-  "_release": "8c4a5c287c",
+  "_release": "b6db363cc5",
   "_resolution": {
     "type": "branch",
     "branch": "dev",
-    "commit": "8c4a5c287c0c5ff4e8138b1bdca2c3b2122fa68d"
+    "commit": "b6db363cc51a991f8748fab780daf6503dcb2339"
   },
   "_source": "git://github.com/cfpb/cf-core.git",
   "_target": "dev",

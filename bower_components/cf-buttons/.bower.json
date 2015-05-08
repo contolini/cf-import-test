@@ -32,11 +32,11 @@
       "js": "src/**/*.js"
     }
   },
-  "_release": "d5c4f3ee14",
+  "_release": "03e9969e99",
   "_resolution": {
     "type": "branch",
     "branch": "dev",
-    "commit": "d5c4f3ee142a2e1e5951038a1c3cfeba596adf21"
+    "commit": "03e9969e99dcbd67c96f4a5e0effe4de242fcc92"
   },
   "_source": "git://github.com/cfpb/cf-buttons.git",
   "_target": "dev",

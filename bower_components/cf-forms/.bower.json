@@ -38,11 +38,11 @@
       "fonts": "font/*.*"
     }
   },
-  "_release": "cbe957415b",
+  "_release": "666d1beb5e",
   "_resolution": {
     "type": "branch",
     "branch": "dev",
-    "commit": "cbe957415ba4d41bdfb6f64555d468cc274965fa"
+    "commit": "666d1beb5e3390d9db707a619d7e993963d3543f"
   },
   "_source": "git://github.com/cfpb/cf-forms.git",
   "_target": "dev",

@@ -25,11 +25,11 @@
     "normalize-css": "~3.0.0",
     "normalize-legacy-addon": "git://github.com/cfpb/normalize-legacy-addon.git#0.1.0"
   },
-  "_release": "bd91654a75",
+  "_release": "9b30fc0222",
   "_resolution": {
     "type": "branch",
     "branch": "dev",
-    "commit": "bd91654a7561ab6ee44a898ef9de6c21bf418be7"
+    "commit": "9b30fc0222501bf1ae4b5f93f8c27d334aeed916"
   },
   "_source": "git://github.com/cfpb/cf-grid.git",
   "_target": "dev",

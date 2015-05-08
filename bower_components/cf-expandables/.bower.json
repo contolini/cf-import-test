@@ -42,11 +42,11 @@
       "js": "js/jquery.easing.js"
     }
   },
-  "_release": "c674be68d1",
+  "_release": "7f7812fa83",
   "_resolution": {
     "type": "branch",
     "branch": "dev",
-    "commit": "c674be68d16d4e01f6df68e1501fab1f0d0ac497"
+    "commit": "7f7812fa83b97a55f6e251e58b7dbc62fb35a43c"
   },
   "_source": "git://github.com/cfpb/cf-expandables.git",
   "_target": "dev",

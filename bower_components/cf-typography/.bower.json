@@ -32,11 +32,11 @@
       "js": "src/**/*.js"
     }
   },
-  "_release": "6143f78ba3",
+  "_release": "7245ba8004",
   "_resolution": {
     "type": "branch",
     "branch": "dev",
-    "commit": "6143f78ba3ae21269d8d5125102099b14fb0c2c0"
+    "commit": "7245ba80041333e9d93fe4a5e220b1bca51fa66b"
   },
   "_source": "git://github.com/cfpb/cf-typography.git",
   "_target": "dev",

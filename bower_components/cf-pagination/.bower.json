@@ -33,11 +33,11 @@
       "js": "src/**/*.js"
     }
   },
-  "_release": "f737a2d2b6",
+  "_release": "ffd72343ff",
   "_resolution": {
     "type": "branch",
     "branch": "dev",
-    "commit": "f737a2d2b6508490d5edd44c6e256d1fbc479711"
+    "commit": "ffd72343ffe962fe6f92abb235d12606b819c317"
   },
   "_source": "git://github.com/cfpb/cf-pagination.git",
   "_target": "dev",
